@@ -7,3 +7,5 @@ we the diffrent places like
 shops and brotherals
 and house
 we need all of these things  be set up in greate detail
+
+make a called towns with no main statment
